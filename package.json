@@ -1,0 +1,12 @@
+{
+  "name": "ai-proxy-tilda",
+  "version": "1.0.0",
+  "description": "Proxy server for Tilda AI features",
+  "main": "api/proxy.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
